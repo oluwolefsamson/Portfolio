@@ -178,7 +178,8 @@ html::-webkit-scrollbar-thumb{
     padding: 1rem 4;
     letter-spacing: .1rem;
     font-style: normal;
-    line-height: 2rem;
+    line-height: 3rem;
+    gap: 2rem;
 }
  
 .about .row{
